@@ -1,4 +1,9 @@
 # Binary Lamp
+Binary Lamp
+
+Making IT and English accessible to non-engineers.
+
+Building a book in public.
 
 Binary Lamp is a static GitHub Pages website for a book-in-progress project.
 
