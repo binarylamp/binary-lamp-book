@@ -19,7 +19,7 @@
 - Draft AI chapters: Model, Training, Inference, Agent, Alignment.
 - Cross-link related concepts where useful.
 
-## v1.0: Complete all 30 articles
+## v1.0: Complete all planned articles
 
 - Complete every planned chapter.
 - Review consistency of terminology.

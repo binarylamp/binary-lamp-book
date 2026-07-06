@@ -27,6 +27,7 @@ window.BINARY_LAMP_ARTICLES = [
   { number: 26, title: "Merge", slug: "26-merge" },
   { number: 27, title: "Version", slug: "27-version" },
   { number: 28, title: "Release", slug: "28-release" },
-  { number: 29, title: "Autonomy", slug: "29-autonomy" },
-  { number: 30, title: "Intelligence", slug: "30-intelligence" }
+  { number: 29, title: "Deployment", slug: "29-deployment" },
+  { number: 30, title: "Autonomy", slug: "30-autonomy" },
+  { number: 31, title: "Intelligence", slug: "31-intelligence" }
 ];
