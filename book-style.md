@@ -15,11 +15,12 @@ Building a book in public.
 
 ## Writing Style
 
-- Write mainly in English.
-- Use simple, natural English.
-- Keep paragraphs short.
+- Teach ideas, not just vocabulary.
+- Write mainly in natural English.
+- Start with a real-world situation, not a dictionary definition.
 - Explain the original meaning before the IT meaning.
-- Avoid translation-like English.
+- Make each article feel like a short essay, not a glossary entry.
+- Preserve the original news context and source URL.
 - Add Japanese notes at the end.
 
 ## Article Structure
@@ -39,6 +40,14 @@ Building a book in public.
 ## Japanese Notes
 
 ## Related Words
+
+## Source News
+
+- Original article title
+- Publisher
+- URL
+- Publication date
+- Why this article was selected
 
 ## Workflow
 
