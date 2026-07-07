@@ -30,5 +30,6 @@ window.BINARY_LAMP_ARTICLES = [
   { number: 29, title: "Deployment", slug: "29-deployment" },
   { number: 30, title: "Autonomy", slug: "30-autonomy" },
   { number: 31, title: "Intelligence", slug: "31-intelligence" },
-  { number: 32, title: "Commoditize", slug: "32-commoditize" }
+  { number: 32, title: "Commoditize", slug: "32-commoditize" },
+  { number: 33, title: "Normalcy — When Technology Stops Being Special", slug: "33-normalcy" }
 ];
